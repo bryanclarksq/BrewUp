@@ -1,0 +1,17 @@
+# GitHub command-line tool
+brew "gh"
+# Mac App Store command-line interface
+brew "mas"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
+# Agent-centric IDE with spec-driven development
+cask "kiro"
+# AI-powered productivity tool for the command-line
+cask "kiro-cli"
+# Utility to uninstall apps and remove leftover files from old/uninstalled apps
+cask "pearcleaner"
+mas "1Password for Safari", id: 1569813296
+mas "Fantastical", id: 975937182
+mas "InYourFace", id: 1476964367
+mas "Jump Desktop", id: 524141863
+mas "Lungo", id: 1263070803
